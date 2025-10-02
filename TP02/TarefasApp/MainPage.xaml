@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TarefasApp.MainPage"
+             Title="Minhas Tarefas">
+
+    <StackLayout Padding="10" Spacing="15">
+        <Button Text="Adicionar Tarefa"
+                Clicked="OnAdicionarClicked"
+                HorizontalOptions="Fill" />
+
+        <CollectionView ItemsSource="{Binding Tarefas}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="5" Padding="10" BorderColor="Gray" HasShadow="True">
+                        <StackLayout>
+                            <Label Text="{Binding Titulo}" FontAttributes="Bold" FontSize="16" />
+                            <Label Text="{Binding Descricao}" FontSize="13" TextColor="Gray" />
+                        </StackLayout>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnTarefaTocada" />
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <!-- Botão de Créditos -->
+        <Button Text="Créditos"
+                Clicked="OnCreditosClicked"
+                HorizontalOptions="Center"
+                FontAttributes="Italic"
+                FontSize="12"
+                TextColor="DarkGray" />
+    </StackLayout>
+</ContentPage>

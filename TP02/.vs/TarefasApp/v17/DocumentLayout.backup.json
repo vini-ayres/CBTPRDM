@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\editartarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\editartarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\editartarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\editartarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\novatarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\novatarefapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tarefasapp\\tarefasapp\\novatarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B759C2-674C-46B2-8A4E-4EA030CC3A46}|TarefasApp\\TarefasApp.csproj|solutionrelative:tarefasapp\\novatarefapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\Tarefa.cs",
+              "RelativeToolTip": "TarefasApp\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:56:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wB0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:45:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarTarefaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\EditarTarefaPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\EditarTarefaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\EditarTarefaPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\EditarTarefaPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:01:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarTarefaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\EditarTarefaPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\EditarTarefaPage.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\EditarTarefaPage.xaml",
+              "RelativeToolTip": "TarefasApp\\EditarTarefaPage.xaml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:58:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NovaTarefaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\NovaTarefaPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\NovaTarefaPage.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\NovaTarefaPage.xaml",
+              "RelativeToolTip": "TarefasApp\\NovaTarefaPage.xaml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:22:59.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TarefasApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\MainPage.xaml",
+              "RelativeToolTip": "TarefasApp\\MainPage.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T18:56:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NovaTarefaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\NovaTarefaPage.xaml.cs",
+              "RelativeDocumentMoniker": "TarefasApp\\NovaTarefaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TarefasApp\\TarefasApp\\NovaTarefaPage.xaml.cs",
+              "RelativeToolTip": "TarefasApp\\NovaTarefaPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:26:27.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
