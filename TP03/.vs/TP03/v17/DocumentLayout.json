@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\pacoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\pacoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\pacotemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\pacotemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\tp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\tp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\mainpagestyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\mainpagestyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\resultadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\resultadospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\resultadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\resultadospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|c:\\users\\vin\u00EDcius\\source\\repos\\tp03\\tp03\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF9EE664-DF1C-439E-A35A-7EBF39AE2B54}|TP03\\TP03.csproj|solutionrelative:tp03\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TP03.csproj",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\TP03.csproj",
+              "RelativeDocumentMoniker": "TP03\\TP03.csproj",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\TP03.csproj",
+              "RelativeToolTip": "TP03\\TP03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T02:05:51.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultadosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\ResultadosPage.xaml.cs",
+              "RelativeDocumentMoniker": "TP03\\ResultadosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\ResultadosPage.xaml.cs",
+              "RelativeToolTip": "TP03\\ResultadosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:09:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TP03\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPage.xaml.cs",
+              "RelativeToolTip": "TP03\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:04:44.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\PacoteViewModel.cs",
+              "RelativeDocumentMoniker": "TP03\\PacoteViewModel.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\PacoteViewModel.cs",
+              "RelativeToolTip": "TP03\\PacoteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:06:43.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\Styles.xaml",
+              "RelativeDocumentMoniker": "TP03\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\Styles.xaml",
+              "RelativeToolTip": "TP03\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T02:12:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TP03\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\App.xaml.cs",
+              "RelativeToolTip": "TP03\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:14:59.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TP03\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MauiProgram.cs",
+              "RelativeToolTip": "TP03\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:15:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacoteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\PacoteModel.cs",
+              "RelativeDocumentMoniker": "TP03\\PacoteModel.cs",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\PacoteModel.cs",
+              "RelativeToolTip": "TP03\\PacoteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:06:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPageStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPageStyles.xaml",
+              "RelativeDocumentMoniker": "TP03\\MainPageStyles.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPageStyles.xaml",
+              "RelativeToolTip": "TP03\\MainPageStyles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T02:11:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultadosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\ResultadosPage.xaml",
+              "RelativeDocumentMoniker": "TP03\\ResultadosPage.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\ResultadosPage.xaml",
+              "RelativeToolTip": "TP03\\ResultadosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T02:08:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TP03\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Vin\u00EDcius\\source\\repos\\TP03\\TP03\\MainPage.xaml",
+              "RelativeToolTip": "TP03\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T02:03:02.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
